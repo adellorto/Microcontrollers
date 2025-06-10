@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F45K22 -DL -O11111114 -fo8 -N"C:\Users\adell\MicroPIC\TdE - Reprise\9 Luglio 2018\SezC\SezC.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\adell\MicroPIC\TdE - Reprise\9 Luglio 2018\SezC\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "SezC.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	SezC.c
+diagnostics: 155	123	Compiled Successfully	SezC.c
+hint: 26	1164	Variable 'delta' has been eliminated by optimizer	SezC.c
+diagnostics: 0	127	All files Compiled in 109 ms	 
+hint: 0	1144	Used RAM (bytes): 74 (5%)  Free RAM (bytes): 1441 (95%)	Used RAM (bytes): 74 (5%)  Free RAM (bytes): 1441 (95%)
+hint: 0	1144	Used ROM (bytes): 1574 (5%)  Free ROM (bytes): 31194 (95%)	Used ROM (bytes): 1574 (5%)  Free ROM (bytes): 31194 (95%)
+diagnostics: 0	125	Project Linked Successfully	SezC.mcppi
+diagnostics: 0	128	Linked in 62 ms	 
+diagnostics: 0	129	Project 'SezC.mcppi' completed: 359 ms	 
+diagnostics: 0	103	Finished successfully: 26 giu 2024, 19:33:27	SezC.mcppi
