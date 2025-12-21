@@ -14,4 +14,5 @@ All projects target the **Microchip PIC18F45K22** microcontroller and were devel
 ## Authors
 
 Alessandro Dell-Orto
+
 Chiara Mauri
