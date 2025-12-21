@@ -11,6 +11,7 @@ All projects target the **Microchip PIC18F45K22** microcontroller and were devel
 - **9 Luglio 2018** – provides `SezA`, `SezB` and `SezC` implementations together with the exam PDF.
 - **Exam** – additional exercises, project templates and datasheets for the PIC18F2X/4XK22 family plus documentation of the HRLV‑MaxSonar sensor.
 
-## Author
+## Authors
 
 Alessandro Dell-Orto
+Chiara Mauri
